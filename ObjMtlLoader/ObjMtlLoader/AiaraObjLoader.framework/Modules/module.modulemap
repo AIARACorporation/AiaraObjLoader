@@ -1,0 +1,6 @@
+framework module AiaraObjLoader {
+  umbrella header "AiaraObjLoader.h"
+
+  export *
+  module * { export * }
+}
